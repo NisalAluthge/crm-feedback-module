@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📊 Customer Feedback Analytical Module
 ### CRM Enterprise System — Continuous Assessment
 
@@ -335,3 +336,6 @@ The `customer_id` field is the bridge between this feedback module and the broad
 ---
 
 *Built for CRM Enterprise Systems — Continuous Assessment*
+=======
+# crm-feedback-module
+>>>>>>> e31e29b206aab646c4a537797314453cad5876db
